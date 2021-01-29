@@ -7,7 +7,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Casestudies", "Casestudies\
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ClassMetotDemo", "Day3\ClassMetotDemo.csproj", "{41A92748-FA07-4B03-9D62-A619F90B0B8E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyDictonary", "MyDictonary\MyDictonary.csproj", "{F196AED1-6DC1-49A3-98CD-EC3ECC3189E5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MyDictonary", "MyDictonary\MyDictonary.csproj", "{F196AED1-6DC1-49A3-98CD-EC3ECC3189E5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RecapDemo", "RecapDemo\RecapDemo.csproj", "{94AD89C5-6F02-45FE-8194-6537D1CCA3ED}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -27,6 +29,10 @@ Global
 		{F196AED1-6DC1-49A3-98CD-EC3ECC3189E5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F196AED1-6DC1-49A3-98CD-EC3ECC3189E5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F196AED1-6DC1-49A3-98CD-EC3ECC3189E5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{94AD89C5-6F02-45FE-8194-6537D1CCA3ED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{94AD89C5-6F02-45FE-8194-6537D1CCA3ED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{94AD89C5-6F02-45FE-8194-6537D1CCA3ED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{94AD89C5-6F02-45FE-8194-6537D1CCA3ED}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
