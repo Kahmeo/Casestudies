@@ -8,6 +8,7 @@ namespace MyDictonary
         {
             MyDictionary<int, string> myDictonary = new MyDictionary<int, string>();
             myDictonary.Add(5, "Ankara");
+            myDictonary.List();
         }
     }
 }

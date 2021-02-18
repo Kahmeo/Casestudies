@@ -37,5 +37,13 @@ namespace MyDictonary
             Console.WriteLine(keys[keys.Length - 1]);
             Console.WriteLine(values[values.Length - 1] + " " + "Eklendi.");
         }
+
+        public void List()
+        {
+            for (int i = 0; i < values.Length; i++)
+            {
+                Console.WriteLine(keys[i] + ":"+values[i]);
+            }
+        }
     }
 }
